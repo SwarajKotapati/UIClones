@@ -1,0 +1,7 @@
+Hi Again ! Now I  have created a clone for Zara's contact us page.
+Hope you can find a difference between the original and my page !. I have now implemented a dynamic pannel inside a dynamic pannel. Phew !
+Thanks !
+
+Original Page : https://www.zara.com/us/en/contact
+My Page : https://d2euaw.axshare.com/?id=tb1021&p=page_1
+
